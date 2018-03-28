@@ -1,0 +1,6 @@
+#! /bin/csh -f
+
+# Management/psrdada_ldflags.  Generated from psrdada_ldflags.in by configure.
+
+echo -n " -L/home/nch/linux_64/lib -lpsrdada"
+
